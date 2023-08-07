@@ -8,10 +8,8 @@ Meu foco atual é desenvolver minha carreira na área de dadoso. Estou compromet
 
 ## Habilidades
 
-- Análise de dados
 - Python
 - SQL
 - Business Intelligence (BI)
-- Machine Learning
 - Visualização de dados
 - Pensamento estratégico
