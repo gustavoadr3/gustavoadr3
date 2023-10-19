@@ -4,7 +4,7 @@ Olá! Sou um profissional dinâmico e analítico com uma visão ampla e um pensa
 
 ## Objetivo
 
-Meu foco atual é desenvolver minha carreira na área de dadoso. Estou comprometido em aprimorar minhas habilidades e conhecimentos em várias ferramentas e tecnologias relacionadas a dados.
+Meu foco atual é desenvolver minha carreira na área de dados. Estou comprometido em aprimorar minhas habilidades e conhecimentos em várias ferramentas e tecnologias relacionadas a dados.
 
 ## Habilidades
 
