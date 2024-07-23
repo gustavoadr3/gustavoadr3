@@ -1,16 +1,9 @@
 # Sobre Mim
 
-Olá! Sou um profissional dinâmico e analítico com uma visão ampla e um pensamento estratégico voltado para atender às necessidades das empresas e dos clientes. 
+Sou um profissional de TI com vasta experiência em Pipeline de Dados, ETL e MySQL, dedicado a desenvolver soluções que atendem de maneira eficiente às necessidades operacionais de clientes internos e externos. Criativo e organizado, possuo uma sólida experiência em trabalho em equipe e atendimento direto a clientes.
 
 ## Objetivo
 
-Meu foco atual é desenvolver minha carreira na área de dados. Estou comprometido em aprimorar minhas habilidades e conhecimentos em várias ferramentas e tecnologias relacionadas a dados.
+Minhas especialidades incluem SQL, Python e Power BI, e estou atualmente aprimorando minhas habilidades em PySpark, Machine Learning e Databricks. Meu objetivo é sempre agregar valor e impulsionar a eficiência operacional através de soluções tecnológicas inovadoras.
 
-## Habilidades
 
- • Domínio avançado do Excel, incluindo fórmulas complexas e visualização de dados;
- • Proficiência no Power BI para criação de painéis e relatórios interativos;
- • Habilidades avançadas em SQL para análises de dados relacionais;
- • Desenvolvendo Python e suas bibliotecas;
- • Desenvolvendo conhecimentos em estatística descritiva, inferencial e avançada;
- • Desenvolvendo a exploração de bancos de dados não relacionais e métodos de Machine Learning;
